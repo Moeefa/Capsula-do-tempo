@@ -8,6 +8,7 @@ Esse é um programa bem simples feito em Python, cujo encripta/desencripta arqui
 ## Como rodar o script no Windows:
 - Baixe o projeto, para fazer isso, basta clicar no botão "Code" em cima.
 <img src="./assets/Download.png" style="border-radius:8px"/>
+
 - Em seguida, clique em "Download ZIP" nas opções e extraia os arquivos em uma pasta.
 - Instale a linguagem Python (https://www.python.org/downloads/), o programa foi feito na versão 3.12.1, durante a instalação marque a caixa "Add python.exe to PATH" e em seguida clique em "Install Now".
 - Abra o arquivo "decrypt.pyc" na pasta "src", ele tentará fazer os passos seguintes automaticamente.
