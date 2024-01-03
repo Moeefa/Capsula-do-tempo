@@ -1,5 +1,5 @@
 # ⏱️ Cápsula do Tempo
-Esse é um programa bem simples feito em Python, cujo encripta/desencripta arquivos dentro do seu diretório em uma data específica.
+Esse é um programa bem simples feito em Python, cujo desencripta arquivos dentro do seu diretório em uma data específica com uma senha específica.
 
 ## Antes de rodar o programa:
 - Todos os arquivos encriptados **devem** estar na pasta "files" dentro do projeto, caso contrário, não irá funcionar.
