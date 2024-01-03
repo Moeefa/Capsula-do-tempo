@@ -12,7 +12,7 @@ Esse é um programa bem simples feito em Python, cujo encripta/desencripta arqui
 - Instale a linguagem Python (https://www.python.org/downloads/), o programa foi feito na versão 3.12.1, durante a instalação marque a caixa "Add python.exe to PATH" e em seguida clique em "Install Now".
 - Abra o arquivo "decrypt.pyc" na pasta "src", ele tentará fazer os passos seguintes automaticamente.
 
-<video style="border-radius:8px"><source src="./assets/Tutorial.mp4"/></video>
+##### Tutorial explicando: https://github.com/Moeefa/CapsulaDoTempo/blob/02165c79711c580e6039f8d25955f001fc5d1c79/assets/Tutorial.mp4
 
 ## Como rodar o script no Android:
 Esse método é mais complicado, porém não impossível.
